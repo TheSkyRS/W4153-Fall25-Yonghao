@@ -1,2 +1,4 @@
 .DS_Store
 .idea/
+SimpleMicroservices/__pycache__/
+SimpleMicroservices/models/__pycache__/
